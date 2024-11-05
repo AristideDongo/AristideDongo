@@ -1,6 +1,6 @@
 # Bienvenue sur mon GitHub !
 
-Je suis # ARISTIDE DONGO, un développeur passionné par les technologies Web & Mobile. Voici un aperçu des technologies que j’utilise :
+Je suis ARISTIDE DONGO, un développeur passionné par les technologies Web & Mobile. Voici un aperçu des technologies que j’utilise :
 
 ## Technologies
 
