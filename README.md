@@ -1,16 +1,17 @@
-- 👋 Hi, I’m @AristideDongo
 # Bienvenue sur mon GitHub !
 
 Je suis ARISTIDE DONGO, un développeur passionné par les technologies Web & Mobile. Voici un aperçu des technologies que j’utilise :
 
 ## Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
 </p>
 
 ## À propos de moi
