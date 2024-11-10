@@ -14,7 +14,7 @@ Je suis ARISTIDE DONGO, un développeur passionné par les technologies Web & Mo
 
 ## À propos de moi
 - 🎓 Étudiant en Licence en Informatique
-- 🌱 Actuellement en train d'apprendre de nouvelles technologies et de me perfectionner en JavaScript, React, Nextjs, Python & Java.
+- 🌱 Actuellement en train d'apprendre de nouvelles technologies et de me perfectionner en JavaScript, React, Nextjs
 
 Merci d'avoir visité mon profil ! 🚀
 
