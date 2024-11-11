@@ -2,7 +2,7 @@
 
 Je suis ARISTIDE DONGO, un développeur passionné par les technologies Web & Mobile. Voici un aperçu des technologies que j’utilise :
 
-## Technologies utiliser ou Technologies à apprendre
+## Technologies utiliser
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
