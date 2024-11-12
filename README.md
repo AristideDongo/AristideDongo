@@ -5,20 +5,22 @@ Je suis **ARISTIDE DONGO**, un développeur passionné par les technologies **We
 ## 🚀 Technologies que j'utilise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/html-5.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/css3.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/javascript.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/react.svg" alt="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/nextjs.svg" alt="Next.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/typescript.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/nestjs.svg" alt="NestJS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/flutter.svg" alt="Flutter" width="40" height="40" />
 </p>
 
 ## 💻 Compétences
 
-- **Développement Frontend** : HTML, CSS, JavaScript, React, Next.js
-- **Bases de données** : MongoDB
+- **Développement Frontend** : HTML, CSS, JavaScript, React, Next.js, TypeScript
+- **Développement Backend** : NestJS
+- **Mobile** : Flutter
+- **Bases de données** : MySQL, MongoDB
 - **Outils** : Git, GitHub, Visual Studio Code, Postman
 
 ## 🌱 Ce que j'apprends actuellement
