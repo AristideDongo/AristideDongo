@@ -3,7 +3,7 @@
 Je suis passionné par le développement d'applications web et mobiles élégantes et logiques. Actuellement, je travaille sur des projets avec React, Next.js et d'autres technologies modernes, tout en explorant de nouveaux horizons comme NestJS.
 
 🔧 Technologies et outils que j'utilise
-<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,nextjs,git,github,npm" alt="Technologies" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,nextjs,git,github,npm" alt="Technologies" /> </p>
 🚀 En cours d'apprentissage
 NestJS (bientôt !)
 Bases de données (MongoDB et SQL)
