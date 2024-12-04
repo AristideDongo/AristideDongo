@@ -1,6 +1,6 @@
-<p align="center">
-**👋 Salut, je suis ARISTIDE DONGO**<br> 
-</p>
+**<p align="center">
+👋 Salut, je suis ARISTIDE DONGO<br> 
+</p>**
 
 **💻 Développeur web & étudiant en informatique**<br>
 
