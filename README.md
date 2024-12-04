@@ -1,4 +1,6 @@
-**👋 Salut, je suis ARISTIDE DONGO**<br>
+<p align="center">
+**👋 Salut, je suis ARISTIDE DONGO**<br> 
+</p>
 
 **💻 Développeur web & étudiant en informatique**<br>
 
@@ -15,6 +17,7 @@ Dart & Flutter : pour être un développeur mobile cross-platforme
 **🛠️ Cursus**<br>
 Je suis un développeur junior qui veut toujours apprendre et atteindre un but précis<br>
 **🌐 Où me trouver ?**<br>
-**LinkedIn : https://www.linkedin.com/in/aristide-dongo-074669296/**
+**LinkedIn : https://www.linkedin.com/in/aristide-dongo-074669296/**<br>
 **Instagram : aristide_dongo7**
 
+<p></p>
