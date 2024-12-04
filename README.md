@@ -2,7 +2,8 @@
 
 **💻 Développeur web & étudiant en informatique**<br>
 
-Je suis développeur junior en javascript et j'utilise la libraire React.JS et son framework Next.JS pour faire le front-end,<br>
+Je suis un etudiant en informatique en Licence 2 et développeur junior en javascript, <br>
+j'utilise la libraire React.JS et son framework Next.JS pour faire le front-end,<br>
 Je n’ai pas encore appris le back-end mais bientôt je ferai du back-end<br>
 
 **🔧 Technologies et outils que j'utilise**
