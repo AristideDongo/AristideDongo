@@ -16,10 +16,9 @@ Actuellement, je me concentre sur :
 - Apprendre à développer des applications **mobile avec Flutter**.
 - Maîtriser les bases du **Développement Backend** et la gestion des bases de données.
 
-**🛠️ Cursus**<br>
-Je suis un développeur junior qui veut toujours apprendre et atteindre un but précis<br>
-**🌐 Où me trouver ?**<br>
-**LinkedIn : https://www.linkedin.com/in/aristide-dongo-074669296/**<br>
-**Instagram : aristide_dongo7**
+## 📫 Comment me contacter
 
-<p></p>
+Vous pouvez me contacter via :
+- Email : [dongokouamearistide2@gmail.com](dongokouamearistide2@gmail.com)
+- LinkedIn : [Aristide Dongo](https://www.linkedin.com/in/aristide-dongo-074669296/)
+- Instagram : aristide_dongo7
