@@ -1,12 +1,12 @@
 **👋 Salut, je suis ARISTIDE DONGO**<br> 
 
-**💻 Développeur web & étudiant en informatique**<br>
+##💻 Développeur web & étudiant en informatique
 
 Je suis un etudiant en informatique en Licence 2 et développeur junior en javascript, <br>
 j'utilise la libraire React.JS et son framework Next.JS pour faire le front-end,<br>
 Je n’ai pas encore appris le back-end mais bientôt je ferai du back-end<br>
 
-**🔧 Technologies et outils que j'utilise**
+## 🔧 Technologies et outils que j'utilise
 <p align="center"> <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwindcss,js,react,nextjs,git,github,npm" alt="Technologies" /> </p>
 
 ## 🌱 Ce que j'apprends actuellement
