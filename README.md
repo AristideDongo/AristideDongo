@@ -22,3 +22,6 @@ Vous pouvez me contacter via :
 - Email : [dongokouamearistide2@gmail.com](dongokouamearistide2@gmail.com)
 - LinkedIn : [Aristide Dongo](https://www.linkedin.com/in/aristide-dongo-074669296/)
 - Instagram : aristide_dongo7
+
+  
+<p align="center">Merci d'avoir visité mon profil ! 🚀</p>
