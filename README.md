@@ -9,9 +9,12 @@ Je n’ai pas encore appris le back-end mais bientôt je ferai du back-end<br>
 **🔧 Technologies et outils que j'utilise**
 <p align="center"> <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwindcss,js,react,nextjs,git,github,npm" alt="Technologies" /> </p>
 
-**Technologies à apprendre**<br>
-Nest.JS : pour mes back-end<br>
-Dart & Flutter : pour être un développeur mobile cross-platforme
+## 🌱 Ce que j'apprends actuellement
+
+Actuellement, je me concentre sur :
+- Améliorer mes compétences en **JavaScript**, **React**, **Next.js** et **NestJS**.
+- Apprendre à développer des applications **mobile avec Flutter**.
+- Maîtriser les bases du **Développement Backend** et la gestion des bases de données.
 
 **🛠️ Cursus**<br>
 Je suis un développeur junior qui veut toujours apprendre et atteindre un but précis<br>
