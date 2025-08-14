@@ -1,6 +1,6 @@
 
 <!-- Bannière ou titre -->
-<h1 align="center">Salut 👋, je suis Dongo Kouame Aristide</h1>
+<h1 align="center">Salut 👋, je suis Aristide</h1>
 <h3 align="center">💻 Développeur Web Fullstack JS/TS | Apprenti Flutter</h3>
 
 ---
@@ -9,7 +9,7 @@
 - 🌱 Actuellement en train d'apprendre **Flutter** et d'améliorer mes compétences en **Clean Architecture**
 - 💬 Passionné par **React**, **Next.js**, **NestJS** et les bonnes pratiques de code
 - 🎯 Objectif : Devenir un développeur fullstack expert et créer des projets innovants
-- 📫 Contact : **[ton.email@example.com](mailto:ton.email@example.com)**
+- 📫 Contact : **[dongokouamearistide95@gmail.com](mailto:ton.email@example.com)**
 
 ---
 
@@ -18,6 +18,7 @@
 ### Langages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
