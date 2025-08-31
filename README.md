@@ -13,19 +13,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AristideDongo&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
-## 🛠️ Tech Stack & Tools  
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs" />
-  <img src="https://skillicons.dev/icons?i=dart,flutter" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
-  <img src="https://skillicons.dev/icons?i=docker,figma,linux" />
-</p>
-
 ---
 
 ## 📊 GitHub Analytics  
@@ -40,6 +27,19 @@
 </p>
 
 ---
+
+## 🛠️ Tech Stack & Tools  
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,figma,linux" />
+</p>
 
 ## 🌐 Let's Connect  
 <p align="center">
