@@ -8,6 +8,11 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AristideDongo&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
