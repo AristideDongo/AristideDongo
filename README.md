@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DongoKouameAristide&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AristideDongo&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
