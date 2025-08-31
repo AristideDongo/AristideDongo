@@ -38,9 +38,8 @@
 
 ## 🌐 Connecte-toi avec moi  
 <p align="center">
-  <a href="https://linkedin.com/in/ton-profil" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/ton-profil" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:ton.email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/aristidedongo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:dongokouamearistide95@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
