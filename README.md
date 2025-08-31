@@ -26,8 +26,8 @@
 ## 📊 Mes Stats GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DongoKouameAristide&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongoKouameAristide&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AristideDongo&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristideDongo&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </p>
 
 <p align="center">
