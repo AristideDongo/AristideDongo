@@ -1,10 +1,10 @@
-# 👋 Salut, je suis Aristide !  
+# 👋 Hi, I'm Aristide!
 
-## 🚀 À propos de moi  
-- 💻 Développeur **Fullstack** passionné  
-- 🌱 J’apprends et j’expérimente autour de **Next.js | NestJS | Flutter**  
-- 🎯 Objectif : devenir un **ingénieur logiciel polyvalent**  
-- ⚡ Fun fact : j’adore résoudre des bugs avec un bon café ☕  
+## 🚀 About me
+- 💻 Passionate **full-stack junior** developer
+- 🌱 I'm learning and experimenting with ** Dart | Flutter**  
+- 🎯 Goal: to become a **versatile software engineer**
+- ⚡ Fun fact: I love solving bugs with a good cup of coffee ☕
 
 ---
 
