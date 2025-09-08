@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Aristide!
+#  Hi, I'm Aristide!
 
-## 🚀 About Me
-- 💻 Passionate **Full-Stack Junior Developer**  
-- 🌱 Currently exploring and building with **Dart | Flutter**  
-- 🎯 Ambition: to grow into a **versatile and innovative software engineer**  
-- ☕ Fun fact: Debugging feels easier with a good cup of coffee!  
+##  About Me
+- Passionate **Full-Stack Junior Developer**  
+- Currently exploring and building with **Dart | Flutter**  
+-  Ambition: to grow into a **versatile and innovative software engineer**  
+-  Fun fact: Debugging feels easier with a good cup of coffee!  
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
+##  GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AristideDongo&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+##  Tech Stack & Tools  
 
 <p align="center">
   <!-- Languages -->
@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=docker,figma,linux" />
 </p>
 
-## 🌐 Let's Connect  
+##  Let's Connect  
 <p align="center">
   <a href="https://linkedin.com/in/aristidedongo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:dongokouamearistide95@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
