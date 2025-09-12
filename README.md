@@ -8,13 +8,6 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AristideDongo&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
 ##  GitHub Analytics  
 
 <p align="center">
