@@ -6,8 +6,6 @@
 -  Ambition: to grow into a **versatile and innovative software engineer**  
 -  Fun fact: Debugging feels easier with a good cup of coffee!  
 
----
-
 ##  GitHub Analytics  
 
 <p align="center">
@@ -18,8 +16,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AristideDongo&theme=radical" alt="GitHub Streak"/>
 </p>
-
----
 
 ##  Tech Stack & Tools  
 
@@ -39,8 +35,6 @@
   <a href="https://linkedin.com/in/aristidedongo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:dongokouamearistide95@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
-
----
 
 ## ✨ Personal Motto  
 _"Code. Learn. Build. Repeat."_  
