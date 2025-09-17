@@ -42,7 +42,7 @@ Je construis des expériences utilisateurs dynamiques avec un ensemble d'outils 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AristideDongo/AristideDongo/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/AristideDongo/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
