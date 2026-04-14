@@ -24,13 +24,13 @@
 
 ```ts
 const aristide = {
-  role:       "Full-Stack Developer",
-  passion:    "Turning ideas into clean, scalable products",
-  stack:      ["TypeScript", "React", "Next.js", "NestJS", "Node.js"],
-  databases:  ["PostgreSQL", "MongoDB"],
-  tools:      ["Git", "VSCode", "Trello", "npm"],
+  role:        "Full-Stack Developer",
+  passion:     "Turning ideas into clean, scalable products",
+  stack:       ["TypeScript", "React", "Next.js", "NestJS", "Node.js"],
+  databases:   ["PostgreSQL", "MongoDB", "Redis", "Firebase"],
+  mobile:      ["Flutter", "Dart"],
   currentFocus: "Building elegant backends & smooth frontends",
-  funFact:    "I debug with coffee ☕ and determination 🔥"
+  funFact:     "I debug with coffee ☕ and determination 🔥"
 };
 ```
 
@@ -40,30 +40,48 @@ const aristide = {
 
 ### 🖥️ Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=framermotion" height="40" title="Framer Motion" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" title="Material UI" />
 </div>
 
 ### 🔧 Backend & Databases
 <div>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" title="NestJS" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" title="NestJS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" title="Firebase" />
 </div>
 
-### 🛠️ Tools & Workflow
+### 📱 Mobile
 <div>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" title="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello" title="Trello" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" title="npm" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" title="Dart" />
+</div>
+
+### 🛠️ Tools & Platforms
+<div>
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" title="Netlify" />
+  <img src="https://skillicons.dev/icons?i=railway" height="40" title="Railway" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" title="Notion" />
+  <img src="https://skillicons.dev/icons?i=slack" height="40" title="Slack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" title="Trello" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" title="Discord" />
 </div>
 
 ---
@@ -72,9 +90,9 @@ const aristide = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AristideDongo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AristideDongo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 
-  <img src="https://streak-stats.demolab.com?user=AristideDongo&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8&order=3" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AristideDongo&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="160" alt="GitHub Streak" />
 
 </div>
 
