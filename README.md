@@ -10,17 +10,17 @@
 
 ### Full-Stack Developer · Building things that matter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/aristidedongo)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AristideCode)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/990766928823988264)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dongokouamearistide95@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://telegram.org)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```ts
 const aristide = {
@@ -36,9 +36,9 @@ const aristide = {
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 <div>
   <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript" />
@@ -50,7 +50,7 @@ const aristide = {
   <img src="https://skillicons.dev/icons?i=materialui" height="40" title="Material UI" />
 </div>
 
-### 🔧 Backend & Databases
+### Backend & Databases
 <div>
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" title="NestJS" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
@@ -61,13 +61,13 @@ const aristide = {
   <img src="https://skillicons.dev/icons?i=firebase" height="40" title="Firebase" />
 </div>
 
-### 📱 Mobile
+### Mobile
 <div>
   <img src="https://skillicons.dev/icons?i=flutter" height="40" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" title="Dart" />
 </div>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <div>
   <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
@@ -86,7 +86,7 @@ const aristide = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -98,7 +98,7 @@ const aristide = {
 
 ---
 
-## 🐾 Contribution Graph
+## Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AristideDongo/AristideDongo/output/pacman-contribution-graph-dark.svg">
@@ -109,8 +109,6 @@ const aristide = {
 ---
 
 <div align="center">
-
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AristideDongo.AristideDongo)
 
   *"Code is not just syntax — it's a craft."*
 
