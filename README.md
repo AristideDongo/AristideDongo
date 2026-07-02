@@ -46,7 +46,7 @@ const aristide = {
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="TailwindCSS" />
   <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=framermotion" height="40" title="Framer Motion" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="28" title="Framer Motion" />  
   <img src="https://skillicons.dev/icons?i=materialui" height="40" title="Material UI" />
 </div>
 
@@ -67,11 +67,11 @@ const aristide = {
   <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" title="AWS" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Vercel" />
-  <img src="https://skillicons.dev/icons?i=railway" height="40" title="Railway" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="28" title="Railway" /> 
   <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" title="Figma" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" title="Notion" />
-  <img src="https://skillicons.dev/icons?i=slack" height="40" title="Slack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" title="Slack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" title="Trello" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" title="Discord" />
 </div>
