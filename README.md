@@ -27,7 +27,7 @@ const aristide = {
   role:        "Full-Stack Developer",
   passion:     "Turning ideas into clean, scalable products",
   stack:       ["TypeScript", "React", "Next.js", "NestJS", "Node.js"],
-  databases:   ["PostgreSQL", "MongoDB", "Redis", "Firebase"],
+  databases:   ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
   mobile:      ["Flutter", "Dart"],
   currentFocus: "Building elegant backends & smooth frontends",
   funFact:     "I debug with coffee ☕ and determination 🔥"
@@ -54,17 +54,10 @@ const aristide = {
 <div>
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" title="NestJS" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" title="Redis" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" title="Firebase" />
-</div>
-
-### Mobile
-<div>
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" title="Flutter" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" title="Dart" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" title="Supabase" />
 </div>
 
 ### Tools & Platforms
@@ -74,7 +67,6 @@ const aristide = {
   <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" title="AWS" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Vercel" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" title="Netlify" />
   <img src="https://skillicons.dev/icons?i=railway" height="40" title="Railway" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" title="Figma" />
