@@ -57,7 +57,7 @@ const aristide = {
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" title="Redis" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" title="Supabase" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" title="Supabase" />
 </div>
 
 ### Tools & Platforms
