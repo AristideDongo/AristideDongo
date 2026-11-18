@@ -17,7 +17,7 @@
 
 ---
 
-## About me
+## 👋 About me
 
 I'm a **full-stack developer based in Abidjan 🇨🇮**, available for remote work. I design and ship web products from end to end — scoping, interface, API, data and production deployment.
 
@@ -33,13 +33,13 @@ const aristide = {
   mobile:    ["Flutter", "Dart"],
   devops:    ["Docker", "GitHub Actions", "Vercel", "Railway", "AWS"],
   focus:     "Reliable backends, protocol work & developer tooling",
-  offline:   ["Manga", "Cartoons", "Video games"],
+  offline:   ["Manga 📚", "Cartoons", "Video games 🎮"],
 };
 ```
 
 ---
 
-##  Open source packages
+## 📦 Open source packages
 
 <table>
 <tr>
@@ -61,7 +61,7 @@ npm i smpp-ts
 </td>
 <td width="50%" valign="top">
 
-###  [ThreadPort](https://github.com/AristideDongo/threadport)
+### 🧵 [ThreadPort](https://github.com/AristideDongo/threadport)
 [![npm](https://img.shields.io/npm/v/threadport?style=flat-square&color=CB3837&logo=npm)](https://www.npmjs.com/package/threadport)
 [![VS Code](https://img.shields.io/visual-studio-marketplace/v/aristideghost.threadport-vscode?style=flat-square&label=VS%20Code&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=aristideghost.threadport-vscode)
 
@@ -78,7 +78,7 @@ npm i -g threadport
 <tr>
 <td width="50%" valign="top">
 
-###  [GlyphLog](https://github.com/AristideDongo/glyphLog)
+### 🪵 [GlyphLog](https://github.com/AristideDongo/glyphLog)
 [![npm](https://img.shields.io/npm/v/glyphlog?style=flat-square&color=CB3837&logo=npm)](https://www.npmjs.com/package/glyphlog)
 [![downloads](https://img.shields.io/npm/dm/glyphlog?style=flat-square)](https://www.npmjs.com/package/glyphlog)
 
@@ -93,7 +93,7 @@ npm i glyphlog
 </td>
 <td width="50%" valign="top">
 
-###  [OpenTask](https://github.com/AristideDongo/opentask)
+### ✅ [OpenTask](https://github.com/AristideDongo/opentask)
 ![status](https://img.shields.io/badge/status-pre--release%200.1-orange?style=flat-square)
 ![license](https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat-square)
 
@@ -111,7 +111,7 @@ docker compose up -d
 
 ---
 
-##  Tech stack
+## 🛠️ Tech stack
 
 <div align="center">
 
@@ -128,11 +128,11 @@ docker compose up -d
 
 ---
 
-##  GitHub metrics
+## 📊 GitHub metrics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AristideDongo/AristideDongo/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
+<img src="https://raw.githubusercontent.com/AristideDongo/AristideDongo/main/github-metrics.svg" alt="GitHub metrics" width="480" />
 
 <img src="https://streak-stats.demolab.com?user=AristideDongo&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub streak" height="170" />
 
@@ -140,7 +140,7 @@ docker compose up -d
 
 ---
 
-##  Contribution graph
+## 🎮 Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AristideDongo/AristideDongo/output/pacman-contribution-graph-dark.svg">
@@ -152,7 +152,7 @@ docker compose up -d
 
 <div align="center">
 
-###  Let's work together
+### 🤝 Let's work together
 
 Open to **full-stack / backend roles**, freelance missions and open source collaborations.<br/>
 The fastest way to reach me is by [email](mailto:dongokouamearistide95@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/aristidedongo).
