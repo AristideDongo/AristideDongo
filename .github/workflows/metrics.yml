@@ -15,30 +15,29 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Personal access token (classic) avec les scopes : read:user, repo (optionnel pour les repos privés)
           token: ${{ secrets.METRICS_TOKEN }}
           user: AristideDongo
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: Africa/Abidjan
+          config_display: regular # largeur compacte (480 px)
 
-          # Calendrier isométrique des contributions
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          # Sections de base allégées (sans le pied de page "metadata")
+          base: header, repositories
 
           # Langages les plus utilisés
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
+          plugin_languages_details: percentage
           plugin_languages_ignored: html, css, shell, dockerfile
 
-          # Habitudes de code (heures / jours de commit)
+          # Habitudes de code : faits seulement (les graphiques plantaient)
           plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
+          plugin_habits_from: 100
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
 
-          # Score PageSpeed du portfolio
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://aristided.vercel.app
+          # Calendrier isométrique des contributions
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
