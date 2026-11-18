@@ -31,13 +31,6 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css, shell, dockerfile
 
-          # Habitudes de code : faits seulement (les graphiques plantaient)
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-
           # Calendrier isométrique des contributions
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
